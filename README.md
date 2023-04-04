@@ -35,3 +35,11 @@ ark-tc是ark系列框架中的事务补偿框架，tc即是Transaction Compensat
 >    jobMaxAbandonMinute: 15
 >```
 # 4.ark-tc 功能截图
+- 线上补偿失败则继续补偿：
+  <div align="left">
+    <img src="./img/1.png" width="50%" align="center"/>
+  </div>
+- 使用便捷，一个annotation即可实现补偿：
+  <div align="left">
+    <img src="./img/2.png" width="50%" align="center"/>
+  </div>
